@@ -2,7 +2,7 @@
 
 Mobile app interface design for Finexa Field Orderbooker Management System.
 
-## Screens (18 Total)
+## Screens (21 Total)
 
 ### Authentication
 1 - Login - Finexa-01-Login.png
@@ -36,7 +36,19 @@ Mobile app interface design for Finexa Field Orderbooker Management System.
 17 - Day-End Report with SMS WA Stats - Finexa-17-Day-End-Report.png
 18 - Pending SMS Send Later - Finexa-18-Pending-SMS.png
 
+### Map and Navigation
+19 - Route Map with Shop Markers - Finexa-19-Route-Map.png
+20 - Map Shop Detail Popup and Attempt - Finexa-20-Map-ShopPopup.png
+21 - Turn-by-Turn Navigation to Shop - Finexa-21-Map-Navigation.png
+
 ## Key Features
+- Interactive map with today's route shop locations as markers
+- Shop markers color-coded: Green (Visited), Yellow (Pending), Purple (In Progress)
+- Tap shop marker to see details, balance, and Attempt Visit button
+- Turn-by-turn navigation with direction arrows and ETA
+- Arrived at Shop button to mark visit and start recovery
+- Route path drawn on map with visited/unvisited portions
+- GPS live indicator with current speed display
 - Receipt auto-saved to gallery for WhatsApp image attachment
 - SMS and WhatsApp tracking per visit
 - Day-End Report with SMS WA breakdown and pending count
